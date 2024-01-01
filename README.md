@@ -1,0 +1,1 @@
+# ModLauncher_CoexistenceCoreAndMod
